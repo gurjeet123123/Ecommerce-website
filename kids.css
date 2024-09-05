@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    color: black;
+}
+#firstdiv{
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgb(231, 93, 93);
+}
+#firstdiv h1{
+    background-color: rgb(231, 93, 93);
+    font-size: 150px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.slider {
+    overflow: hidden;
+}
+
+.slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    gap: 60px;
+    padding-top: 70px;
+}
+
+.slides img {
+    width: 80%;
+    height: 400px;
+    gap: 20px;
+}
+#h1tag{
+    font-size: 200px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    gap: 20px;
+    color: rgb(231, 93, 93);
+
+}
+.brand{
+    height: 500px;
+    width: 500px;
+    gap: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.brands{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 300px;
+}
+.brand:hover{
+    transform: scale(1.2);
+}
+.main h1{
+    color: rgb(231, 93, 93);
+    font-size: 150px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.oye{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.oye .dd h2{
+    font-size: 70px;
+    padding-left: 90px;
+}
+.oye .dd img{
+    border-radius: 50px;
+}
+.main h1{
+    padding-bottom: 200px;
+}
+.kid{
+    font-size: 150px;
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+    color: rgb(231, 93, 93);
+    width: 100%;
+    padding-bottom: 200px;
+}
+.kidclass{
+    width: 80%;
+    cursor: pointer;
+    box-shadow: ;
+}
+.hero{
+    width: 600px;
+    height: 600px;
+    
+}
+#fir{
+    padding-left: 30px;
+}
+#las{
+    padding-right: 30px;
+}
+.footer img{
+    width: 2500px;
+    height: 1200px;
+    cursor: pointer;
+}
+
+
